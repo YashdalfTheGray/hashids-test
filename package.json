@@ -11,6 +11,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^12.20.36",
     "hashids": "^2.2.8",
     "ts-node": "^8.5.4",
     "typescript": "^3.7.5"
